@@ -1,7 +1,7 @@
 ## Web pribadi
 
-Nama : Fredy Nur Apriyanto
-Web : fredynurapriyanto.com
-Email : email@fredynurapriyanto.com
-Instagram : @fredynurapriyanto
-FB : Fredy Nur Apriyanto
+Nama : Fredy Nur Apriyanto<br>
+Web : fredynurapriyanto.com<br>
+Email : email@fredynurapriyanto.com<br>
+Instagram : @fredynurapriyanto<br>
+FB : Fredy Nur Apriyanto<br>
