@@ -9,7 +9,7 @@ class UasController extends Controller
 {
     public function index()
     {
-        $uas = UAS::latest()->first();
+        $uas = UAS::all();
 
         $data = [
             'status' => true,
