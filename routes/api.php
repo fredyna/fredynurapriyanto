@@ -19,3 +19,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::post('/uas', 'UasController@store');
 Route::get('/uas', 'UasController@index');
+
+Route::get('/haji', 'HajiController@iindex');
+Route::post('/haji', 'HajiController@store');
