@@ -22,3 +22,6 @@ Route::get('/uas', 'UasController@index');
 
 Route::post('/haji', 'HajiController@store');
 Route::get('/haji', 'HajiController@index');
+
+Route::post('/biodata', 'BiodataController@store');
+Route::get('/biodata', 'BiodataController@index');
